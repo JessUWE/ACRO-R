@@ -2,4 +2,4 @@
 
 ### All vignettes
 
-- [acro R Notebook](example-notebook.md):
+- [example-notebook](example-notebook.md):
