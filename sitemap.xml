@@ -6,10 +6,7 @@
 <url><loc>/articles/example-notebook.html</loc></url>
 <url><loc>/articles/index.html</loc></url>
 <url><loc>/authors.html</loc></url>
-<url><loc>/examples.html</loc></url>
 <url><loc>/index.html</loc></url>
-<url><loc>/installation.html</loc></url>
-<url><loc>/news/index.html</loc></url>
 <url><loc>/reference/acro_add_comments.html</loc></url>
 <url><loc>/reference/acro_add_exception.html</loc></url>
 <url><loc>/reference/acro_crosstab.html</loc></url>
@@ -30,7 +27,5 @@
 <url><loc>/reference/install_acro.html</loc></url>
 <url><loc>/reference/lung.html</loc></url>
 <url><loc>/reference/nursery_data.html</loc></url>
-<url><loc>/supports.html</loc></url>
-<url><loc>/welcome.html</loc></url>
 </urlset>
 
